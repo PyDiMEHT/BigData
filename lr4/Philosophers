@@ -1,0 +1,37 @@
+Philosopher 2 takes right fork
+Philosopher 1 takes right fork
+Philosopher 1 puts right fork
+Philosopher 0 takes right fork
+Philosopher 1 takes left fork
+Philosopher 5 takes right fork
+Philosopher 5 puts right fork
+Philosopher 4 takes right fork
+Philosopher 6 takes right fork
+Philosopher 3 takes right fork
+Philosopher 3 puts right fork
+Philosopher 3 takes left fork
+Philosopher 2 puts right fork
+Philosopher 2 takes left fork
+Philosopher 0 puts right fork
+Philosopher 4 puts right fork
+Philosopher 0 takes left fork
+Philosopher 5 takes left fork
+Philosopher 6 puts right fork
+Philosopher 4 takes left fork
+Philosopher 6 takes left fork
+Philosopher 0 puts left fork
+Philosopher 0 is thinking
+Philosopher 1 puts left fork
+Philosopher 1 is thinking
+Philosopher 6 puts left fork
+Philosopher 5 puts left fork
+Philosopher 5 is thinking
+Philosopher 6 is thinking
+Philosopher 3 puts left fork
+Philosopher 3 is thinking
+Philosopher 2 puts left fork
+Philosopher 2 is thinking
+Philosopher 5 takes right fork
+Philosopher 5 puts right fork
+Philosopher 5 takes left fork
+...
