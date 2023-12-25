@@ -7,6 +7,7 @@
 
 В методе eat() создается эфимерный узел, затем при помощи метода aquire() филосов берет правую и левую вилки. Поток засыпает потом освобождается.В методе think() эфимерный узел удаляется и поток засыпает.
 
+```python
 Philosopher 2 takes right fork
 Philosopher 1 takes right fork
 Philosopher 1 puts right fork
@@ -31,6 +32,7 @@ Philosopher 3 is thinking
 Philosopher 2 puts left fork
 Philosopher 2 is thinking
 ...
+```
 
 2
 Реализован вариант 2.
@@ -55,6 +57,7 @@ Philosopher 2 is thinking
 
 Исполнители применяют / прерывают транзакцию
 
+```python
 register workers []
 Worker 1 vote abort
 Worker 4 vote abort
@@ -63,3 +66,4 @@ Worker 2 vote commit
 Worker 0 vote abort
 All workers voted
 abort
+```
